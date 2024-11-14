@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at Yale University.
-
 My research focuses on the distributional consequences of international trade, economic development, and growth.
 
 Publication
