@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Welcome! I am Tianyu"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My research focuses on the distributional consequences of international trade, economic development, and growth.
+I am Tianyu. My research focuses on the distributional consequences of international trade, economic development, and growth.
+
+Contact me at tianyu.fan@yale.edu.
 
 Publication
 ======
