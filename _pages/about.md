@@ -11,7 +11,7 @@ My research focuses on the distributional consequences of international trade, e
 
 Publication
 ======
-1. Growing Like India: The Unequal Eﬀects of Service-Led Growth, with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/). Econometrica, Vol 91, No 4, 2023. [draft](/files/FPZ_ECMA_final.pdf)
+1. Growing Like India: The Unequal Eﬀects of Service-Led Growth, with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/). Econometrica, Vol 91, No 4, 2023. [\[draft\]](/files/FPZ_ECMA_final.pdf)
 
 Working in Progress
 ======
