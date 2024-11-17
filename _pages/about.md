@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tianyu, and my research focuses on the distributional consequences of international trade, economic development, and growth.
+I am Tianyu, a Ph.D. candidate in economics at Yale University. My research studies the distributional consequences of international trade, economic development, and economic growth.
 
 Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>.
 
