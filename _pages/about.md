@@ -14,7 +14,10 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>.
 Publication
 ======
 
-1. **Growing Like India: The Unequal Effects of Service-Led Growth**, with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/). *Econometrica*, Vol 91, No 4, 2023. [\[paper\]](/files/FPZ_UnequalGrowth.pdf), [\[draft\]](/files/FPZ_ECMA_final.pdf), [\[VoxDev column\]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [\[I4I column\]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
+1. **Growing Like India: The Unequal Effects of Service-Led Growth**  
+   Coauthors: [Michael Peters](https://mipeters.weebly.com), [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
+   *Econometrica*, Vol 91, No 4, 2023  
+   Links: [\[paper\]](/files/FPZ_UnequalGrowth.pdf), [\[draft\]](/files/FPZ_ECMA_final.pdf), [\[VoxDev column\]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [\[I4I column\]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
 
 Work in Progress
 ======
@@ -25,15 +28,15 @@ Work in Progress
 Teaching Experience
 ======
 
-**Teaching Assistant, Department of Economics, Yale University**
-- Macroeconomics I (Ph.D.)
-  - *Fall 2023*, Instructors: Zhen Huo & Fabrizio Zilibotti
-  - *Fall 2024*, Instructors: Pascual Restrepo & Fabrizio Zilibotti
-- Advanced Development Economics (Master)
-  - *Spring 2023*, Instructor: Michael Boozer
-- Growth and Macroeconomics (Master)
-  - *Fall 2022*, Instructor: Ana Cecilia Fieler
+1. **Teaching Assistant, Department of Economics, Yale University**  
+   - Macroeconomics I (Ph.D.)
+     - *Fall 2023*, Instructors: Zhen Huo & Fabrizio Zilibotti
+     - *Fall 2024*, Instructors: Pascual Restrepo & Fabrizio Zilibotti
+   - Advanced Development Economics (Master)
+     - *Spring 2023*, Instructor: Michael Boozer
+   - Growth and Macroeconomics (Master)
+     - *Fall 2022*, Instructor: Ana Cecilia Fieler
 
-**Teaching Assistant, National School of Development, Peking University**
-- Intermediate Microeconomics (Undergraduate)
-  - *Fall 2017*, Instructors: Ju Hu & Lixing Li
+2. **Teaching Assistant, National School of Development, Peking University**  
+   - Intermediate Microeconomics (Undergraduate)
+     - *Fall 2017*, Instructors: Ju Hu & Lixing Li
