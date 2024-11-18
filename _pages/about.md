@@ -25,15 +25,15 @@ Work in Progress
 Teaching Experience
 ======
 
-### Teaching Assistant, Department of Economics, Yale University
+Teaching Assistant, Department of Economics, Yale University
 - Macroeconomics I (Ph.D.)
   - *Fall 2023*, Instructors: Zhen Huo & Fabrizio Zilibotti
   - *Fall 2024*, Instructors: Pascual Restrepo & Fabrizio Zilibotti
-- Advanced Development Economics (Master's Level)
+- Advanced Development Economics (Master)
   - *Spring 2023*, Instructor: Michael Boozer
-- Growth and Macroeconomics (Master's Level)
+- Growth and Macroeconomics (Master)
   - *Fall 2022*, Instructor: Ana Cecilia Fieler
 
-### Teaching Assistant, National School of Development, Peking University
+Teaching Assistant, National School of Development, Peking University
 - Intermediate Microeconomics (Undergraduate)
   - *Fall 2017*, Instructors: Ju Hu & Lixing Li
