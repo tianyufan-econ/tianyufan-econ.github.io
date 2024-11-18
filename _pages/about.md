@@ -19,3 +19,14 @@ Work in Progress
 ======
 1. *The Incidence of New Technologies with Distance-Dependent Substitutability.*
 2. *Measuring Inflation Inequality with Incomplete Prices.*
+
+Teaching Experience
+======
+1. **Teaching Assistant, Department of Economics, Yale University**
+   - *Macroeconomics I (Ph.D.)*, Fall 2024. Instructors: Pascual Restrepo and Fabrizio Zilibotti
+   - *Macroeconomics I (Ph.D.)*, Fall 2023. Instructosr: Zhen Huo and Fabrizio Zilibotti
+   - *Advanced Development (Master)*, Spring 2023. Instructor: Michael Boozer
+   - *Growth and Macroeconomics (Master)*, Fall 2022. Instructor: Ana Cecile Fieler
+
+2. **Teaching Assistant, National School of Development, Peking University**
+   - *Intermediate Microeconomics (Undergraduate)*, Fall 2017. Instructors: Ju Hu and Lixing Li
