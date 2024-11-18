@@ -13,10 +13,12 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>.
 
 Publication
 ======
+
 1. *Growing Like India: The Unequal Effects of Service-Led Growth*, with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/). *Econometrica*, Vol 91, No 4, 2023. [\[paper\]](/files/FPZ_UnequalGrowth.pdf), [\[draft\]](/files/FPZ_ECMA_final.pdf), [\[VoxDev column\]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [\[I4I column\]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
 
 Work in Progress
 ======
+
 1. *The Incidence of New Technologies with Distance-Dependent Substitutability.*
 2. *Measuring Inflation Inequality with Incomplete Prices.*
 
@@ -24,16 +26,14 @@ Teaching Experience
 ======
 
 ### Teaching Assistant, Department of Economics, Yale University
-
-- **Macroeconomics I (Ph.D.)**
+- Macroeconomics I (Ph.D.)
   - *Fall 2023*, Instructors: Zhen Huo & Fabrizio Zilibotti
   - *Fall 2024*, Instructors: Pascual Restrepo & Fabrizio Zilibotti
-- **Advanced Development Economics (Master's Level)**
+- Advanced Development Economics (Master's Level)
   - *Spring 2023*, Instructor: Michael Boozer
-- **Growth and Macroeconomics (Master's Level)**
+- Growth and Macroeconomics (Master's Level)
   - *Fall 2022*, Instructor: Ana Cecilia Fieler
 
 ### Teaching Assistant, National School of Development, Peking University
-
-- **Intermediate Microeconomics (Undergraduate)**
+- Intermediate Microeconomics (Undergraduate)
   - *Fall 2017*, Instructors: Ju Hu & Lixing Li
