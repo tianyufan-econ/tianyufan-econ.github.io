@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile_snow.png"
   name             : "Tianyu Fan"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics"
+  pronouns         : "Ph.D. Candidate in Economics" # example: "she/her"  
+  bio              : "[Curriculum Vitae](/files/CV_FAN_Tianyu.pdf)"
   location         : "New Haven"
   employer         : "Yale University"
   uri              : # URL
