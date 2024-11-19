@@ -9,9 +9,7 @@ redirect_from:
 
 I am Tianyu, a Ph.D. candidate in economics at Yale University. My research studies the distributional consequences of international trade, economic development, and growth.
 
-Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>.
-
-<a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;">Curriculum Vitae</a>
+Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;">Curriculum Vitae</a>.
 
 Publication
 ======
