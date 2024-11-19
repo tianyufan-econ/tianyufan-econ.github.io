@@ -11,6 +11,8 @@ I am Tianyu, a Ph.D. candidate in economics at Yale University. My research stud
 
 Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>.
 
+<a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;">Curriculum Vitae</a>
+
 Publication
 ======
 
