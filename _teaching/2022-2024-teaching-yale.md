@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate courses"
 permalink: /teaching/2022-2024-teaching-yale
 venue: "Yale University, Department of Economics"
-date: 2022-09-01
+date: 2024-09-01
 location: "New Haven, USA"
 ---
 
