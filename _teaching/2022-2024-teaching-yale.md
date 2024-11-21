@@ -8,6 +8,8 @@ date: 2024-09-01
 location: "New Haven, USA"
 ---
 
+Multiple graduate-level courses
+
 Ph.D. Level Courses
 ======
 * **Macroeconomics I**
