@@ -8,7 +8,7 @@ date: 2017-09-01
 location: "Beijing, China"
 ---
 
-Undergraduate microeconomics
+Undergraduate microeconomics.
 
 Undergraduate Level Courses
 ======
