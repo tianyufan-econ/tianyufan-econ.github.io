@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience at Yale University"
+title: "Teaching Assistant at Yale University"
 collection: teaching
 type: "Graduate courses"
 permalink: /teaching/2022-2024-teaching-yale
@@ -7,8 +7,6 @@ venue: "Yale University, Department of Economics"
 date: 2024-09-01
 location: "New Haven, USA"
 ---
-
-Teaching Assistant for multiple graduate-level economics courses at Yale University.
 
 Ph.D. Level Courses
 ======

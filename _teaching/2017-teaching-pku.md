@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience at Peking University"
+title: "Teaching Assistant at Peking University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-teaching-pku
@@ -8,7 +8,6 @@ date: 2017-09-01
 location: "Beijing, China"
 ---
 
-Teaching Assistant for undergraduate economics course at Peking University.
 
 Undergraduate Level Courses
 ======
