@@ -17,7 +17,7 @@ Publication
 1. **Growing Like India: The Unequal Effects of Service-Led Growth**  
    Coauthors: [Michael Peters](https://mipeters.weebly.com), [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
    *Econometrica*, Vol 91, No 4, 2023  
-   Links: [\[paper\]](/files/FPZ_UnequalGrowth.pdf), [\[draft\]](/files/FPZ_ECMA_final.pdf), [\[VoxDev column\]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [\[I4I column\]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
+   Links: [\[paper\]](/files/FPZ_UnequalGrowth.pdf), [\[Corrigenda\]](/files/FPZ_corrigenda.pdf), [\[draft\]](/files/FPZ_ECMA_final.pdf), [\[VoxDev column\]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [\[I4I column\]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
 
 Work in Progress
 ======
