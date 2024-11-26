@@ -14,7 +14,7 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here 
 Publication
 ======
 
-1. **Growing Like India: The Unequal Effects of Service-Led Growth**  
+1. **Growing Like India: The Unequal Effects of Service-Led Growth.**  
    Coauthors: [Michael Peters](https://mipeters.weebly.com), [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
    *Econometrica*, Vol 91, No 4, 2023  
    Links: [\[Paper\]](/files/FPZ_UnequalGrowth.pdf), [\[Corrigendum\]](/files/FPZ_Corrigendum.pdf), [\[Draft\]](/files/FPZ_ECMA_final.pdf), [\[VoxDev\]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [\[I4I\]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
