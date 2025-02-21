@@ -11,9 +11,13 @@ I am Tianyu, a Ph.D. candidate in economics at Yale University. My research stud
 
 Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;">Curriculum Vitae</a>.
 
-Publication
+Working Papers
 ======
+1. **The Incidence of New Technologies with Distance-Dependent Substitutability.**  
+   Draft Available Upon Request
 
+Publications
+======
 1. **Growing Like India: The Unequal Effects of Service-Led Growth.**  
    Coauthors: [Michael Peters](https://mipeters.weebly.com), [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
    *Econometrica*, Vol 91, No 4, 2023  
@@ -21,9 +25,9 @@ Publication
 
 Work in Progress
 ======
-
-1. **The Incidence of New Technologies with Distance-Dependent Substitutability.**
-2. **Measuring Inflation Inequality with Incomplete Prices.**
+1. **Measuring Inflation Inequality with Incomplete Prices.**
+2. **Is the Whole the Sum of its Parts? The Effects of Partial Automation on Jobs, Demand for Skills, and Wages.**  
+   Coauthor: Pascual Restrepo
 
 [//]: # Teaching Experience
 [//]: # ======
