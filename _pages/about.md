@@ -13,7 +13,7 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here 
 
 Working Papers
 ======
-1. **The Incidence of New Technologies with Distance-Dependent Substitutability.**  
+1. **The Labor Market Incidence of New Technologies.**  
    Draft Available Upon Request
 
 Publications
