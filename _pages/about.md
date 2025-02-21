@@ -25,10 +25,10 @@ Publications
 
 Work in Progress
 ======
-1. **Measuring Inflation Inequality with Incomplete Prices.**
-   Coauthor: Olivia Ding, Kan Yao
-2. **Is the Whole the Sum of its Parts? The Effects of Partial Automation on Jobs, Demand for Skills, and Wages.**  
+1. **Is the Whole the Sum of its Parts? The Effects of Partial Automation on Jobs, Demand for Skills, and Wages.**  
    Coauthor: [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
+2. **Measuring Inflation Inequality with Incomplete Prices.**  
+   Coauthors: Olivia Ding, Kan Yao
 
 [//]: # Teaching Experience
 [//]: # ======
