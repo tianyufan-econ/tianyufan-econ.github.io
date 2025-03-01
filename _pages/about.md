@@ -14,7 +14,7 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here 
 Working Papers
 ======
 1. **The Labor Market Incidence of New Technologies.**  
-   Draft Available Upon Request
+   Links: [\[Paper\]](/files/FAN_Technology_Incidence.pdf)
 
 Publications
 ======
