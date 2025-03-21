@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research studies the causes and consequences of inequality related to international trade, economic development, and growth.
+I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research studies the causes and consequences of inequality related to trade, development, and economic growth.
 
 Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;">Curriculum Vitae</a>.
 
