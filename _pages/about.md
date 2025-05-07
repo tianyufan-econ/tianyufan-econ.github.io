@@ -23,7 +23,7 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here 
    Links: [[Published Version]](/files/FPZ_UnequalGrowth.pdf), [[Corrigendum]](/files/FPZ_Corrigendum.pdf), [[Working Paper]](/files/FPZ_ECMA_final.pdf), [[VoxDev]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india), [[I4I]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-economic-growth.html)
 
 ### Work in Progress
-1. Alliance and Rivalry: The Geopolitical Influence on Economic Growth. [*draft coming soon*]
+1. Alliance and Rivalry: The Geopolitical Influence on Economic Growth. *draft coming soon!*
 2. Is the Whole the Sum of its Parts? The Effects of Partial Automation on Jobs, Demand for Skills, and Wages.  
    Coauthor: [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 3. Measuring Inflation Inequality with Incomplete Prices.  
