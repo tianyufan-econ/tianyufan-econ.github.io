@@ -25,7 +25,7 @@ Contact me at <span style="color: darkorange;">tianyu.fan@yale.edu</span>. Here 
 ### Work in Progress
 
 1. Alliance and Rivalry: The Geopolitical Influence on Economic Growth. *draft coming soon!*
-2. Partial Automation.
+2. Partial Automation.  
    Coauthor: [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 3. Measuring Inflation Inequality with Incomplete Prices.  
    Coauthors: Olivia Ding, Kan Yao
