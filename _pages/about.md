@@ -19,6 +19,9 @@ I expect to be on the job market this fall (2025/26).
 **The Labor Market Incidence of New Technologies**  
 Links: [[Paper]](/files/FAN_Technology_Incidence.pdf) | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160195)
 
+**The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
+*Draft coming soon*
+
 ## Publications
 
 **Growing Like India: The Unequal Effects of Service-Led Growth**  
@@ -27,9 +30,6 @@ with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](http
 Links: [[Published Version]](/files/FPZ_UnequalGrowth.pdf) | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf) | [[VoxDev]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india) | [[Ideas for India]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-growth.html)
 
 ## Work in Progress
-
-**The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
-*Draft coming soon*
 
 **Partial Automation**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
