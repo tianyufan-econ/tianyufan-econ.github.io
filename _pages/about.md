@@ -17,10 +17,10 @@ I expect to be on the job market this fall (2025/26).
 ## Working Papers
 
 **The Labor Market Incidence of New Technologies**  
-Links: [[Paper]](/files/FAN_Technology_Incidence.pdf) | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160195)
+Links: [[Latest Version]](/files/FAN_Technology_Incidence.pdf) | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
-*Draft coming soon*
+Links: [[Latest Version]](/files/FAN_Tianyu_Geopolitical_Growth.pdf) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 ## Publications
 
