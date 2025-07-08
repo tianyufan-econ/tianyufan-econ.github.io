@@ -20,7 +20,7 @@ I expect to be on the job market this fall (2025/26).
 Links: [[Latest Version]](/files/FAN_Technology_Incidence.pdf) | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
-Links: [[Latest Version]](/files/FAN_Tianyu_Geopolitical_Growth.pdf) | [[SSRN]](https://ssrn.com/abstract=5341272)
+Links: [[Latest Version]](/files/FAN_Tianyu_Geopolitical_Growth.pdf) | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 ## Publications
 
