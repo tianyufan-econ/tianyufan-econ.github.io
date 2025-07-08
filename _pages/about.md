@@ -17,17 +17,17 @@ I expect to be on the job market this fall (2025/26).
 ## Working Papers
 
 **The Labor Market Incidence of New Technologies**  
-Links: [[Latest Version]](/files/FAN_Technology_Incidence.pdf) | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
+Links: [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest Version</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
-Links: [[Latest Version]](/files/FAN_Tianyu_Geopolitical_Growth.pdf) | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
+Links: [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest Version</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 ## Publications
 
 **Growing Like India: The Unequal Effects of Service-Led Growth**  
 with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
 *Econometrica*, Vol. 91, No. 4, 2023  
-Links: [[Published Version]](/files/FPZ_UnequalGrowth.pdf) | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf) | [[VoxDev]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india) | [[Ideas for India]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-growth.html)
+Links: [<a href="/files/FPZ_UnequalGrowth.pdf" style="color: darkorange;">Published Version</a>] | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf) | [[VoxDev]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india) | [[Ideas for India]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-growth.html)
 
 ## Work in Progress
 
