@@ -34,5 +34,8 @@ Links: [<a href="/files/FPZ_UnequalGrowth.pdf" style="color: darkorange;">Publis
 **Partial Automation**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 
+**Geopolitical Barriers to Global Trade and Capital Flows**  
+with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
+
 **Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
