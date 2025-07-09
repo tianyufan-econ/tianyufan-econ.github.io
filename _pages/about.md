@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research explores the interconnections between trade, development, and economic growth. Currently, my work focuses on two main areas: understanding how technological changes affect labor markets and examining the role of geopolitics in shaping economic growth and global trade and capital flows.
+I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research interests span trade, development, and economic growth. Currently, my work focuses on two main areas: understanding how technological changes affect labor markets and examining the role of geopolitics in shaping economic growth and global trade and capital flows.
 
 Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: darkorange;">tianyu.fan@yale.edu</a>. Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>.
 
