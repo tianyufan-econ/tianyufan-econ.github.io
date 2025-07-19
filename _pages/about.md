@@ -37,7 +37,7 @@ with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 **Geopolitical Barriers to Global Trade and Capital Flows**  
 with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
 
-**Anatomy of Geopolitical Dynamics: Facts and Tests**  
+**Anatomy of Geopolitical Dynamics: Facts and Tests from Global Events**  
 with [Jizhou Liu](https://ljz0.github.io) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
 
 **Measuring Inflation Inequality with Incomplete Prices**  
