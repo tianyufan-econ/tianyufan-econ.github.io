@@ -16,11 +16,11 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 
 ## Working Papers
 
-**The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
-Links: [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest Version</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
-
 **The Labor Market Incidence of New Technologies**  
 Links: [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest Version</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
+
+**The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
+Links: [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest Version</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 ## Publications
 
