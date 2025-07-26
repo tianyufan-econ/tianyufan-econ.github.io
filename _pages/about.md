@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-My research examines issues at the intersection of macroeconomics, international trade, and economic development. Currently, I focus on three interconnected areas: **technological change and labor markets**, **geopolitics and geoeconomics**, and **unequal growth and development**.
+I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research examines issues at the intersection of macroeconomics, international trade, and economic development. Currently, I focus on three interconnected areas: **technological change and labor markets**, **geopolitics and geoeconomics**, and **unequal growth and development**.
 
 Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: darkorange;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
