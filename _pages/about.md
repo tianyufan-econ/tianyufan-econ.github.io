@@ -16,10 +16,10 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 
 ## Working Papers
 
-**The Labor Market Incidence of New Technologies**  
+**The Labor Market Incidence of New Technologies** (*Job Market Paper #1*)  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest 04/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
-**The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
+**The Geopolitical Determinants of Economic Growth, 1960 - 2019** (*Job Market Paper #2*)  
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest 07/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 ## Publications
