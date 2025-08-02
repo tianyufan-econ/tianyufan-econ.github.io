@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research interests span trade, development, and economic growth. Currently, my work focuses on two main areas: understanding how technological changes affect labor markets and examining the role of geopolitics in shaping economic growth and global trade and capital flows.
+I am Tianyu, a Ph.D. candidate in Economics at Yale University. My research examines issues at the intersection of macroeconomics, international trade, and economic development. Currently, I focus on three interconnected areas: **technological change and labor markets**, **geopolitics and geoeconomics**, and **unequal growth and development**.
 
 Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: darkorange;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
@@ -17,9 +17,11 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 ## Working Papers
 
 **The Labor Market Incidence of New Technologies**  
+*Job Market Paper #1*  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest 04/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
+*Job Market Paper #2*  
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest 07/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 ## Publications
