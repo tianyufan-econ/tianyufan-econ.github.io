@@ -24,6 +24,10 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 *Job Market Paper #2*  
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest 07/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
+**Geopolitical Barriers to Globalization**  
+with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)  
+*Draft Coming Soon*
+
 ## Publications
 
 **Growing Like India: The Unequal Effects of Service-Led Growth**  
@@ -35,9 +39,6 @@ with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](http
 
 **Partial Automation**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
-
-**Geopolitical Barriers to Global Trade and Capital Flows**  
-with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
 
 **Anatomy of Geopolitical Dynamics: Facts and Tests**  
 with [Jizhou Liu](https://ljz0.github.io) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
