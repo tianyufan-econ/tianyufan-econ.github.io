@@ -26,7 +26,7 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 
 **Geopolitical Barriers to Globalization**  
 with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)  
-*Draft Coming Soon*
+*Draft Coming Soon!*
 
 ## Publications
 
