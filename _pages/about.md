@@ -40,7 +40,7 @@ with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](http
 **Partial Automation**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 
-**Anatomy of Geopolitical Dynamics: Facts and Tests**  
+**Anatomy of Geopolitical Dynamics**  
 with [Jizhou Liu](https://ljz0.github.io) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
 
 **Measuring Inflation Inequality with Incomplete Prices**  
