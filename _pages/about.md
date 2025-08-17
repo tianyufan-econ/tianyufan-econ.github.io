@@ -17,7 +17,7 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 ## Working Papers
 
 **The Labor Market Incidence of New Technologies**  
-*Job Market Paper #1*  
+*Job Market Paper #1, New Draft Coming Soon*  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest 04/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
