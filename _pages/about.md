@@ -16,32 +16,32 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 
 ## Working Papers
 
-**1. The Labor Market Incidence of New Technologies**  
+1. **The Labor Market Incidence of New Technologies**  
 *Job Market Paper #1, New Draft Coming Soon*  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest 04/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
-**2. The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
+2. **The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
 *Job Market Paper #2*  
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest 07/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
-**3. Geopolitical Barriers to Globalization**  
+3. **Geopolitical Barriers to Globalization**  
 with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)  
 *Draft Coming Soon!*
 
 ## Publications
 
-**4. Growing Like India: The Unequal Effects of Service-Led Growth**  
+4. **Growing Like India: The Unequal Effects of Service-Led Growth**  
 with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
 *Econometrica*, Vol. 91, No. 4, 2023  
 [<a href="/files/FPZ_UnequalGrowth.pdf" style="color: darkorange;">Published Version</a>] | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf) | [[VoxDev]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india) | [[Ideas for India]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-growth.html)
 
 ## Work in Progress
 
-**5. Partial Automation**  
+5. **Partial Automation**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 
-**6. Anatomy of Geopolitical Dynamics**  
+6. **Anatomy of Geopolitical Dynamics**  
 with [Jizhou Liu](https://ljz0.github.io) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
 
-**7. Measuring Inflation Inequality with Incomplete Prices**  
+7. **Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
