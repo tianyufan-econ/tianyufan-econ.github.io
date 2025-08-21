@@ -17,8 +17,6 @@ The database will be publicly available later this year:
 - Dynamic geopolitical alignment measures for all country pairs
 - Complete bilateral event records with classifications and scores
 
-For early access or collaboration opportunities, please contact the authors.
-
 ## References
 
 **Tianyu Fan (2025).** "The Geopolitical Determinants of Economic Growth, 1960–2019." [[Paper]](https://www.tianyu-fan.com/files/FAN_Tianyu_Geopolitical_Growth.pdf)
