@@ -9,8 +9,6 @@ layout: single
 
 The Global Geopolitical Events Database compiles 833,485 major bilateral political events between all 193 UN member states from 1950 to 2024. Using large language models to systematically analyze and classify events, we construct dynamic measures of geopolitical alignment that capture the timing and intensity of international relationships. Each event is coded using the CAMEO framework and assigned Goldstein Scale scores (-10 to +10), enabling precise measurement of cooperation and conflict over seven decades.
 
-This comprehensive dataset illuminates the transformation of global politics from Cold War bipolarity through post-Cold War integration to contemporary fragmentation, providing researchers with unprecedented granularity for studying how political relationships shape economic outcomes, trade flows, and international stability.
-
 ## Access and Usage
 
 The database will be publicly available later this year:
