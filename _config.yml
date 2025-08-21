@@ -215,9 +215,6 @@ collections:
   publications:
     output: false
     permalink: /:collection/:path/
-  database:
-    output: false
-    permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
@@ -252,15 +249,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _database
-  - scope:
-      path: ""
-      type: database
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
