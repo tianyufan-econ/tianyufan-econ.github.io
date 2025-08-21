@@ -1,30 +1,23 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching Experience"
 author_profile: true
 layout: single
 ---
 
-## Teaching Assistant at Yale University
-*Yale University, Department of Economics*  
-*New Haven, USA*
+## Yale University
+*Teaching Assistant, Department of Economics*
 
-### Ph.D. Level Courses
-* **Macroeconomics I**
-  * Fall 2023 with Professors Zhen Huo & Fabrizio Zilibotti
-  * Fall 2024 with Professors Pascual Restrepo & Fabrizio Zilibotti
+**Ph.D. Core Courses**
+- Macroeconomics I — Pascual Restrepo & Fabrizio Zilibotti (Fall 2024)
+- Macroeconomics I — Zhen Huo & Fabrizio Zilibotti (Fall 2023)
 
-### Master's Level Courses
-* **Advanced Development Economics**
-  * Spring 2023 with Professor Michael Boozer
+**Master's Courses**
+- Advanced Development Economics — Michael Boozer (Spring 2023)
+- Growth and Macroeconomics — Ana Cecilia Fieler (Fall 2022)
 
-* **Growth and Macroeconomics**
-  * Fall 2022 with Professor Ana Cecilia Fieler
+## Peking University
+*Teaching Assistant, National School of Development*
 
-## Teaching Assistant at Peking University
-*Peking University, National School of Development*  
-*Beijing, China*
-
-### Undergraduate Level Courses
-* **Intermediate Microeconomics**
-  * Fall 2017 with Professors Ju Hu & Lixing Li
+**Undergraduate Courses**
+- Intermediate Microeconomics — Ju Hu & Lixing Li (Fall 2017)
