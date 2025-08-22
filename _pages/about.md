@@ -16,7 +16,7 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 
 ## Publications
 
-**1. <span style="color: #1e3a8a;">Growing Like India: The Unequal Effects of Service-Led Growth</span>**  
+**1. <span style="color: #0d2659;">Growing Like India: The Unequal Effects of Service-Led Growth</span>**  
 with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/), *Econometrica*, Vol. 91, No. 4, 2023  
 [<a href="/files/FPZ_UnequalGrowth.pdf" style="color: darkorange;">Published Version</a>] | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf)
 
