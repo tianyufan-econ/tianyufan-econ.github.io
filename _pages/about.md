@@ -22,25 +22,25 @@ with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](http
 
 ## Working Papers
 
-**2. The Labor Market Incidence of New Technologies**  
+**2. <span style="color: #0d2659;">The Labor Market Incidence of New Technologies</span>**  
 *Job Market Paper #1, New Draft Coming Soon*  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: darkorange;">Latest 04/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
-**3. The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
+**3. <span style="color: #0d2659;">The Geopolitical Determinants of Economic Growth, 1960 - 2019</span>**  
 *Job Market Paper #2*  
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest 07/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
-**4. Geopolitical Barriers to Globalization**  
+**4. <span style="color: #0d2659;">Geopolitical Barriers to Globalization</span>**  
 with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)  
 *Draft Coming Soon!*
 
 ## Work in Progress
 
-**5. Partial Automation**  
+**5. <span style="color: #0d2659;">Partial Automation</span>**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
 
-**6. Anatomy of Geopolitical Dynamics**  
+**6. <span style="color: #0d2659;">Anatomy of Geopolitical Dynamics</span>**  
 with [Jizhou Liu](https://ljz0.github.io) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
 
-**7. Measuring Inflation Inequality with Incomplete Prices**  
+**7. <span style="color: #0d2659;">Measuring Inflation Inequality with Incomplete Prices</span>**  
 with Olivia Ding and Kan Yao
