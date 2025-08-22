@@ -14,14 +14,14 @@ Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: darkorange;">ti
 
 Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. I expect to be on the job market this fall (2025/26).
 
-### Publications
+## Publications
 
 **1. Growing Like India: The Unequal Effects of Service-Led Growth**  
 with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/)  
 *Econometrica*, Vol. 91, No. 4, 2023  
 [<a href="/files/FPZ_UnequalGrowth.pdf" style="color: darkorange;">Published Version</a>] | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf) | [[VoxDev]](https://voxdev.org/topic/macroeconomics-growth/how-services-drive-growth-emerging-economies-evidence-india) | [[Ideas for India]](https://www.ideasforindia.in/topics/macroeconomics/india-s-service-led-growth.html)
 
-### Working Papers
+## Working Papers
 
 **2. The Labor Market Incidence of New Technologies**  
 *Job Market Paper #1, New Draft Coming Soon*  
@@ -35,7 +35,7 @@ with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](http
 with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)  
 *Draft Coming Soon!*
 
-### Work in Progress
+## Work in Progress
 
 **5. Partial Automation**  
 with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
