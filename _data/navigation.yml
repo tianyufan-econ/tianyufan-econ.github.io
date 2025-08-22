@@ -11,8 +11,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Global Geopolitical Events Database"
-    url: /database/
+  #- title: "Global Geopolitical Events Database"
+  #  url: /database/
     
   - title: "Teaching"
     url: /teaching/
