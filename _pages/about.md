@@ -17,7 +17,7 @@ Here is my <a href="/files/CV_FAN_Tianyu.pdf" style="color: darkorange;" title="
 ## Publications
 
 **1. Growing Like India: The Unequal Effects of Service-Led Growth**  
-with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](https://campuspress.yale.edu/zilibotti/), *Econometrica*, Vol. 91, No. 4, 2023  
+with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peters</a> and <a href="https://campuspress.yale.edu/zilibotti/" style="color: #494e52;">Fabrizio Zilibotti</a>, *Econometrica*, Vol. 91, No. 4, 2023  
 [<a href="/files/FPZ_UnequalGrowth.pdf" style="color: darkorange;">Published Version</a>] | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf)
 
 ## Working Papers
@@ -31,16 +31,16 @@ with [Michael Peters](https://mipeters.weebly.com) and [Fabrizio Zilibotti](http
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: darkorange;">Latest 07/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272)
 
 **4. Geopolitical Barriers to Globalization**  
-with [Mai Wo](https://sites.google.com/view/maiwo/) and [Wei Xiang](https://sites.google.com/view/wei-xiang)  
+with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
 *Draft Coming Soon!*
 
 ## Work in Progress
 
 **5. Partial Automation**  
-with [Pascual Restrepo](https://campuspress.yale.edu/pascualrestrepo/)
+with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>
 
 **6. Anatomy of Geopolitical Dynamics**  
-with [Jizhou Liu](https://ljz0.github.io) and [Wei Xiang](https://sites.google.com/view/wei-xiang)
+with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
 
 **7. Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
