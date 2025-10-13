@@ -10,7 +10,7 @@ redirect_from:
 
 My research examines issues at the intersection of macroeconomics, international trade, and economic development. Currently, I focus on three interconnected areas: **technological change and labor markets** [2, 5], **geopolitics and geoeconomics** [3, 4, 6], and **unequal growth and development** [1, 7].
 
-Here are my <a href="/files/Fan_Tianyu_JM_CV.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a> and <a href="/files/Research_Statement_Tianyu_Fan_2025.pdf" style="color: #f89406;" title="Download Tianyu Fan's Research Statement">research statement</a>. I am on the 2025/26 job market.
+Here are my <a href="/files/Fan_Tianyu_CV.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a> and <a href="/files/Research_Statement_Tianyu_Fan_2025.pdf" style="color: #f89406;" title="Download Tianyu Fan's Research Statement">research statement</a>. I am on the 2025/26 job market.
 
 Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: #f89406;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
