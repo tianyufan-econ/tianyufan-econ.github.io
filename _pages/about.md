@@ -36,7 +36,8 @@ with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai 
 ## Work in Progress
 
 **5. Partial Automation**  
-with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>
+with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
+[<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 10/25</a>]
 
 **6. Anatomy of Geopolitical Dynamics**  
 with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
