@@ -31,7 +31,7 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 
 **4. Geopolitical Barriers to Globalization**  
 with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
-[<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">Latest 09/25</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084) | [[SSRN]](https://ssrn.com/abstract=5489906)
+[<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">New 09/25</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084) | [[SSRN]](https://ssrn.com/abstract=5489906)
 
 ## Work in Progress
 
