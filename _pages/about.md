@@ -27,7 +27,7 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 10/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **3. The Geopolitical Determinants of Economic Growth, 1960 - 2019**  
-[<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: #f89406;">Latest 11/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272), ***Media***: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/the-geopolitical-determinants-of-economic-growth-1960-2019.html)
+[<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: #f89406;">Latest 11/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272), *Media*: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/the-geopolitical-determinants-of-economic-growth-1960-2019.html)
 
 **4. Geopolitical Barriers to Globalization**  
 with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
