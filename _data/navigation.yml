@@ -10,12 +10,12 @@ main:
 
   #- title: "Talks"
   #  url: /talks/    
-
-  #- title: "Global Geopolitical Events Database"
-  #  url: /database/
     
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Global Geopolitical Events Database"
+    url: https://github.com/tianyufan-econ/global-geopolitics
         
   #- title: "Blog Posts"
   #  url: /year-archive/
