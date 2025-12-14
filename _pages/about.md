@@ -24,7 +24,7 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 
 **2. The Labor Market Incidence of New Technologies**  
 *Job Market Paper*  
-[<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 10/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
+[<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 12/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047) | [[SSRN]](https://ssrn.com/abstract=5160195)
 
 **3. The Geopolitical Determinants of Economic Growth, 1960 - 2024**  
 [<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: #f89406;">Latest 11/25</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[SSRN]](https://ssrn.com/abstract=5341272), *Media*: [Le Monde](https://www.lemonde.fr/idees/article/2025/12/03/la-qualite-des-relations-geopolitiques-avec-les-grandes-economies-a-un-impact-tres-important-sur-la-croissance_6655833_3232.html), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/the-geopolitical-determinants-of-economic-growth-1960-2019.html)
