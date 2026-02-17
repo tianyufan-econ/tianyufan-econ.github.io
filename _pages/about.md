@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: **technological change and labor markets** [2, 5], **geopolitics and geoeconomics** [3, 4, 6], and **unequal growth and development** [1, 7].
+My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: **technological change and labor markets** [2, 6], **geopolitics and geoeconomics** [3, 4, 5], and **unequal growth and development** [1, 7].
 
 Here are my <a href="/files/Fan_Tianyu_CV.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a> and <a href="/files/Research_Statement_Tianyu_Fan_2025.pdf" style="color: #f89406;" title="Download Tianyu Fan's Research Statement">research statement</a>. I am on the 2025/26 job market.
 
@@ -33,14 +33,15 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
 [<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">New 09/25</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084)
 
+**5. Measuring Global Geopolitical Alignment**  
+with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
+*Draft Coming Soon*
+
 ## Work in Progress
 
-**5. Partial Automation**  
+**6. Partial Automation**  
 with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
 [<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 11/25</a>]
-
-**6. Anatomy of Geopolitical Dynamics**  
-with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
 
 **7. Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
