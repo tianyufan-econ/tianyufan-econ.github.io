@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: **technological change and labor markets** [2, 6], **geopolitics and geoeconomics** [3, 4, 5], and **unequal growth and development** [1, 7].
+My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: **technological change and labor markets** [2, 6], **geopolitics and geoeconomics** [3, 4, 5, 7], and **unequal growth and development** [1, 7].
 
 Here are my <a href="/files/Fan_Tianyu_CV.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: #f89406;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
@@ -41,5 +41,8 @@ with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and
 with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
 [<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 11/25</a>]
 
-**7. Measuring Inflation Inequality with Incomplete Prices**  
+**7. Political Cycles in a Globalized World**  
+with Haoran Gao
+
+**8. Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
