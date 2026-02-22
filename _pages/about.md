@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: **technological change and labor markets** [2, 6], **geopolitics and geoeconomics** [3, 4, 5, 7], and **unequal growth and development** [1, 7].
+My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: **technological change and labor markets** [2, 6], **geopolitics and geoeconomics** [3, 4, 5, 7], and **unequal growth and development** [1, 8].
 
 Here are my <a href="/files/Fan_Tianyu_CV.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: #f89406;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
