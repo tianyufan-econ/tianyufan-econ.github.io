@@ -8,7 +8,7 @@ redirect_from:
  - /about.html
 ---
 
-I will join Princeton University as a Postdoctoral Research Associate (2026–2027) and the Chinese University of Hong Kong (CUHK) as an Assistant Professor of Economics in 2027. My research examines issues at the intersection of macroeconomics, political economy, and international trade. Currently, I focus on three areas: technological change and labor markets, geopolitics and geoeconomics, and unequal growth and development.
+I will join Princeton University as a Postdoctoral Research Associate (2026–2027) and the Chinese University of Hong Kong (CUHK) as an Assistant Professor of Economics in 2027. My research examines issues at the intersection of macroeconomics, political economy, and international economics.
 
 Here are my <a href="/files/CV_FAN_Tianyu.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: #f89406;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
