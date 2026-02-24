@@ -23,7 +23,6 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 ## Working Papers
 
 **2. The Labor Market Incidence of New Technologies**  
-*Job Market Paper*  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 12/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047)
 
 **3. The Geopolitical Determinants of Economic Growth, 1960 - 2024**  
