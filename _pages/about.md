@@ -32,7 +32,7 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
 [<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">New 09/25</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084)
 
-**5. Measuring Global Geopolitical Alignment**  
+**5. The Structure of International Order, 1950 - 2024**  
 with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
 *Draft Coming Soon*
 
