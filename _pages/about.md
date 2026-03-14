@@ -32,21 +32,14 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
 [<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">New 09/25</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084)
 
-**5. The Structure of International Order, 1950 - 2024**  
-with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
-*Draft Coming Soon*
-
 ## Work in Progress
 
-**6. Partial Automation**  
+**5. Partial Automation**  
 with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
 [<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 11/25</a>]
 
-**7. Political Cycles in a Globalized World**  
-with Haoran Gao
+**6. Measuring Global Geopolitical Alignment**  
+with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
 
-**8. Geopolitical Shocks and Global Financial Markets**  
-with <a href="https://sites.google.com/view/zefengchen/home" style="color: #494e52;">Zefeng Chen</a>, <a href="https://minghaoli.com" style="color: #494e52;">Minghao Li</a>, and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
-
-**9. Measuring Inflation Inequality with Incomplete Prices**  
+**7. Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
