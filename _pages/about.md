@@ -38,7 +38,7 @@ with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai 
 with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
 [<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 11/25</a>]
 
-**6. Measuring Global Geopolitical Alignment**  
+**6. The Structure of International Order, 1950 - 2024**  
 with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
 
 **7. Measuring Inflation Inequality with Incomplete Prices**  
