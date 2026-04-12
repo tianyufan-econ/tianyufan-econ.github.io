@@ -12,7 +12,7 @@ I will join Princeton University as a Postdoctoral Research Associate (2026–20
 
 Here are my <a href="/files/CV_FAN_Tianyu.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: #f89406;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
-**Data:** [Global Geopolitical Events Database](https://github.com/tianyufan-econ/global-geopolitics) (Major 32 countries sample available)
+**Data:** [Global Geopolitical Events Database](https://github.com/tianyufan-econ/global-geopolitics) (Major 24 countries sample available)
 
 ## Publications
 
