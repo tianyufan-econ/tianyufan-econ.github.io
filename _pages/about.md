@@ -12,7 +12,7 @@ I will join Princeton University as a Postdoctoral Research Associate (2026–20
 
 Here are my <a href="/files/CV_FAN_Tianyu.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. Contact me at <a href="mailto:tianyu.fan@yale.edu" style="color: #f89406;">tianyu.fan@yale.edu</a> or <a href="mailto:tianyufan.econ@gmail.com">tianyufan.econ@gmail.com</a>.
 
-**Data:** [Global Geopolitical Events Database](https://github.com/tianyufan-econ/global-geopolitics) (Major 24 × All sample available)
+**Data:** [Global Geopolitical Events Database](https://github.com/tianyufan-econ/global-geopolitics)
 
 ## Publications
 
@@ -27,7 +27,7 @@ with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peter
 
 **3. Geopolitical Barriers to Globalization**  
 with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
-[<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">Latest 03/26</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084)
+[<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">Latest 04/26</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084)
 
 **4. The Labor Market Incidence of New Technologies**  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 12/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047)
