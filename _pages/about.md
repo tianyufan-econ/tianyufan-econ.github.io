@@ -32,14 +32,15 @@ with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai 
 **4. The Labor Market Incidence of New Technologies**  
 [<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 12/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047)
 
+**5. The Structure of International Order, 1950 - 2024**  
+with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
+<span style="color: #f89406;">*Draft coming soon*</span>
+
 ## Work in Progress
 
-**5. Partial Automation**  
+**6. Partial Automation**  
 with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
 [<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 11/25</a>]
-
-**6. The Structure of International Order, 1950 - 2024**  
-with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>
 
 **7. Measuring Inflation Inequality with Incomplete Prices**  
 with Olivia Ding and Kan Yao
