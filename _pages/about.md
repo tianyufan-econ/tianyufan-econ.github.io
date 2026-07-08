@@ -8,9 +8,9 @@ redirect_from:
  - /about.html
 ---
 
-I will join Princeton University as a Postdoctoral Research Associate (2026–2027) and the Chinese University of Hong Kong (CUHK) as an Assistant Professor of Economics in 2027. My research spans macroeconomics, political economy, and international economics.
+I am a Postdoctoral Research Associate at Princeton University (2026–2027) and will join the Chinese University of Hong Kong (CUHK) as an Assistant Professor of Economics in 2027. My research spans macroeconomics, political economy, and international economics. <a href="/files/CV_FAN_Tianyu.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>.
 
-Here are my <a href="/files/CV_FAN_Tianyu.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>. Contact me at <a href="mailto:tianyufan.econ@gmail.com" style="color: #f89406;">tianyufan.econ@gmail.com</a>.
+Contact me at <a href="mailto:tianyufan.econ@gmail.com" style="color: #f89406;">tianyufan.econ@gmail.com</a> or <a href="mailto:tianyu.fan@princeton.edu">tianyu.fan@princeton.edu</a>.
 
 **Data:** [Global Geopolitical Events Database](https://github.com/tianyufan-econ/global-geopolitics)
 
