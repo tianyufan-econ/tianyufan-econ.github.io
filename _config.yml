@@ -21,7 +21,7 @@ repository               : "tianyufan/tianyufan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_formal.jpg"
+  avatar           : "profile_casual.jpg"
   name             : "Tianyu Fan"
   pronouns         : # example: "she/her"  
   bio              : ""
