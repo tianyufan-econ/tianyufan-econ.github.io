@@ -1,0 +1,23 @@
+{% assign paper = include.paper %}
+<article class="paper">
+  <h3>{% if paper.pdf %}<a href="{{ paper.pdf | relative_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+  {% if paper.authors %}
+  <p class="paper-authors">with {% for author in paper.authors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{% if author.url %}<a href="{{ author.url }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% endfor %}</p>
+  {% endif %}
+  {% if paper.publication %}<p class="paper-publication">{{ paper.publication }}</p>{% endif %}
+  {% if paper.status %}<p class="paper-status">{{ paper.status }}</p>{% endif %}
+  {% if paper.resources or paper.abstract %}
+  <div class="paper-resources" aria-label="Resources for {{ paper.title | escape }}">
+    {% for resource in paper.resources %}<a href="{% if resource.url contains '://' %}{{ resource.url }}{% else %}{{ resource.url | relative_url }}{% endif %}">{{ resource.label }}</a>{% endfor %}
+    {% if paper.abstract %}<button class="abstract-toggle" type="button" aria-expanded="false" aria-controls="abstract-{{ paper.title | slugify }}" hidden>Abstract</button>{% endif %}
+  </div>
+  {% endif %}
+  {% if paper.abstract %}
+  <div class="paper-abstract" id="abstract-{{ paper.title | slugify }}">
+    <p>{{ paper.abstract }}</p>
+  </div>
+  {% endif %}
+  {% if paper.media %}
+  <p class="paper-media">Media:{% for item in paper.media %} <a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</p>
+  {% endif %}
+</article>

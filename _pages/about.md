@@ -1,47 +1,32 @@
 ---
 permalink: /
-title: "Welcome!"
-author_profile: true
-layout: single
-redirect_from: 
- - /about/
- - /about.html
+title: "Tianyu Fan"
+layout: academic
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-I am a Postdoctoral Research Associate at Princeton University (2026–2027) and will join the Chinese University of Hong Kong (CUHK) as an Assistant Professor of Economics in 2027. My research spans macroeconomics, political economy, and international economics. <a href="/files/CV_FAN_Tianyu.pdf" style="color: #f89406;" title="Download Tianyu Fan's CV">Curriculum Vitae</a>.
+<div class="introduction">
+  <p>I am a Postdoctoral Research Associate at Princeton University. I will join the Chinese University of Hong Kong as an Assistant Professor of Economics in 2027.</p>
+  <p>My research studies how technological change and geopolitical relationships shape economic growth, international trade, and the distribution of income.</p>
+  <p>I received my Ph.D. in Economics from Yale University in 2026.</p>
+</div>
 
-Contact me at <a href="mailto:tianyufan.econ@gmail.com" style="color: #f89406;">tianyufan.econ@gmail.com</a> or <a href="mailto:tianyu.fan@princeton.edu">tianyu.fan@princeton.edu</a>.
+<div id="research">
+{% for section in site.data.research %}
+<section class="research-section" aria-labelledby="{{ section.id }}">
+  <h2 class="section-title" id="{{ section.id }}">{{ section.title }}</h2>
+  {% for paper in section.papers %}
+    {% include academic-paper.html paper=paper %}
+  {% endfor %}
+</section>
+{% endfor %}
+</div>
 
-**Data:** [Global Geopolitical Events Database](https://github.com/tianyufan-econ/global-geopolitics)
-
-## Publications
-
-**1. Growing Like India: The Unequal Effects of Service-Led Growth**  
-with <a href="https://mipeters.weebly.com" style="color: #494e52;">Michael Peters</a> and <a href="https://campuspress.yale.edu/zilibotti/" style="color: #494e52;">Fabrizio Zilibotti</a>, *Econometrica*, Vol. 91, No. 4, 2023  
-[<a href="/files/FPZ_UnequalGrowth.pdf" style="color: #f89406;">Published Version</a>] | [[Corrigendum]](/files/FPZ_Corrigendum.pdf) | [[Working Paper]](/files/FPZ_ECMA_final.pdf)
-
-## Working Papers
-
-**2. Measuring Geopolitical Alignment and Economic Growth**  
-[<a href="/files/FAN_Tianyu_Geopolitical_Growth.pdf" style="color: #f89406;">Latest 05/26</a>] | [[arXiv]](https://arxiv.org/abs/2507.04833) | [[Short Replication]](https://github.com/tianyufan-econ/research-replication/tree/main/geopolitical-growth), *Media*: [Le Monde](https://www.lemonde.fr/idees/article/2025/12/03/la-qualite-des-relations-geopolitiques-avec-les-grandes-economies-a-un-impact-tres-important-sur-la-croissance_6655833_3232.html), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/the-geopolitical-determinants-of-economic-growth-1960-2019.html)
-
-**3. Geopolitical Barriers to Globalization**  
-with <a href="https://sites.google.com/view/maiwo/" style="color: #494e52;">Mai Wo</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
-[<a href="/files/FWX_Geopolitical_Barriers.pdf" style="color: #f89406;">Latest 04/26</a>] | [[arXiv]](https://arxiv.org/abs/2509.12084)
-
-**4. The Labor Market Incidence of New Technologies**  
-[<a href="/files/FAN_Technology_Incidence.pdf" style="color: #f89406;">Latest 12/25</a>] | [[arXiv]](https://arxiv.org/abs/2504.04047)
-
-**5. Partial Automation**  
-with <a href="https://campuspress.yale.edu/pascualrestrepo/" style="color: #494e52;">Pascual Restrepo</a>  
-[<a href="/files/slides_partial_automation.pdf" style="color: #f89406;">Slides 11/25</a>]  
-<span style="color: #f89406;">*Draft coming soon*</span>
-
-**6. The Structure of International Order, 1950 - 2024**  
-with <a href="https://ljz0.github.io" style="color: #494e52;">Jizhou Liu</a> and <a href="https://sites.google.com/view/wei-xiang" style="color: #494e52;">Wei Xiang</a>  
-<span style="color: #f89406;">*Draft coming soon*</span>
-
-## Work in Progress
-
-**7. Measuring Inflation Inequality with Incomplete Prices**  
-with Olivia Ding and Kan Yao
+<section class="research-section data-intro" aria-labelledby="data">
+  <h2 class="section-title" id="data">Data</h2>
+  <h3><a href="{{ '/data/' | relative_url }}">Global Geopolitical Events Database</a></h3>
+  <p>Bilateral geopolitical alignment across 193 countries, 1950–2024. Download alignment scores, read the documentation, and find the associated research.</p>
+  <p><a href="{{ '/data/' | relative_url }}">Data and documentation</a></p>
+</section>

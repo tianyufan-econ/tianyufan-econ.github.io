@@ -1,0 +1,110 @@
+- id: publications
+  title: Publications
+  papers:
+    - title: "Growing Like India: The Unequal Effects of Service-Led Growth"
+      pdf: /files/FPZ_UnequalGrowth.pdf
+      authors:
+        - name: Michael Peters
+          url: https://mipeters.weebly.com
+        - name: Fabrizio Zilibotti
+          url: https://campuspress.yale.edu/zilibotti/
+      publication: "<em>Econometrica</em>, 2023, 91(4): 1457–1494"
+      resources:
+        - label: Corrigendum
+          url: /files/FPZ_Corrigendum.pdf
+        - label: Working paper version
+          url: /files/FPZ_ECMA_final.pdf
+      abstract: >-
+        Structural transformation in most currently developing countries takes the form of
+        a rapid rise in services but limited industrialization. In this paper, we propose a new
+        methodology to structurally estimate productivity growth in service industries that
+        circumvents the notorious difficulties in measuring quality improvements. In our theory,
+        the expansion of the service sector is both a consequence, due to income effects, and
+        a cause, due to productivity growth, of the development process. We estimate the
+        model using Indian household data. We find that productivity growth in nontradable
+        consumer services such as retail, restaurants, or residential real estate was an important
+        driver of structural transformation and rising living standards between 1987 and 2011.
+        However, the welfare gains were heavily skewed toward high-income urban dwellers.
+
+- id: working-papers
+  title: Working Papers
+  papers:
+    - title: Measuring Geopolitical Alignment and Economic Growth
+      pdf: /files/FAN_Tianyu_Geopolitical_Growth.pdf
+      resources:
+        - label: arXiv
+          url: https://arxiv.org/abs/2507.04833
+        - label: Short replication
+          url: https://github.com/tianyufan-econ/research-replication/tree/main/geopolitical-growth
+      abstract: >-
+        This paper introduces a new event-based measure of bilateral geopolitical alignment and provides
+        evidence that it shapes economic growth. The measure is built from 373,020 geopolitical events
+        across 193 countries over 1960–2024, compiled using large language models. With local projections
+        exploiting within-country temporal variation, we find that a one-standard-deviation permanent
+        improvement in geopolitical alignment increases GDP per capita by approximately 10 percent
+        over 25 years. These effects are associated with improvements in domestic stability, investment,
+        productivity, trade, and human capital. In illustrative accounting exercises, observed geopolitical
+        changes correspond to GDP differences ranging from about −30 to +30 percent across countries
+        and time periods.
+      media:
+        - label: Le Monde
+          url: https://www.lemonde.fr/idees/article/2025/12/03/la-qualite-des-relations-geopolitiques-avec-les-grandes-economies-a-un-impact-tres-important-sur-la-croissance_6655833_3232.html
+        - label: Marginal Revolution
+          url: https://marginalrevolution.com/marginalrevolution/2025/11/the-geopolitical-determinants-of-economic-growth-1960-2019.html
+    - title: Geopolitical Barriers to Globalization
+      pdf: /files/FWX_Geopolitical_Barriers.pdf
+      authors:
+        - name: Mai Wo
+          url: https://sites.google.com/view/maiwo/
+        - name: Wei Xiang
+          url: https://sites.google.com/view/wei-xiang
+      resources:
+        - label: arXiv
+          url: https://arxiv.org/abs/2509.12084
+      abstract: >-
+        We show that since the mid-1990s, the trade-promoting effects of tariff liberalization have been
+        increasingly offset by deteriorating geopolitical alignment, slowing trade globalization after 2007.
+        To quantify this barrier, we use large language models to compile 833,485 geopolitical events across
+        193 countries, 1950–2024, and construct a bilateral geopolitical alignment score. Using local projections,
+        we estimate that a one-standard-deviation permanent improvement in alignment raises bilateral
+        trade by 22 percent in the long run. In an Armington framework, tariff reductions raised 2021 global
+        trade by about 7.5 percent, while geopolitical deterioration reduced it by about 5.3 percent, with
+        uneven welfare effects.
+    - title: The Labor Market Incidence of New Technologies
+      pdf: /files/FAN_Technology_Incidence.pdf
+      resources:
+        - label: arXiv
+          url: https://arxiv.org/abs/2504.04047
+      abstract: >-
+        This paper develops a framework for empirically estimating aggregate labor supply across
+        occupations with flexible substitution patterns and applies it to study the incidence of
+        automation and artificial intelligence in the U.S. labor market. Central to the analysis is the
+        distance-dependent elasticity of substitution (DIDES), where worker substitutability between
+        occupations declines with their distance in skill space. By mapping 306 occupations into cognitive,
+        manual, and interpersonal skill dimensions, we estimate a low-dimensional latent skill model that
+        preserves granular substitution patterns. We show that both automation and artificial intelligence
+        cluster in skill-adjacent occupations, constraining employment adjustment and amplifying wage effects:
+        20–50% of labor demand shocks pass through to wages, while mobility recovers only 20% of wage losses.
+
+    - title: Partial Automation
+      status: Draft coming soon
+      authors:
+        - name: Pascual Restrepo
+          url: https://campuspress.yale.edu/pascualrestrepo/
+      resources:
+        - label: Slides
+          url: /files/slides_partial_automation.pdf
+
+- id: research-in-progress
+  title: Research in Progress
+  papers:
+    - title: The Structure of International Order, 1950–2024
+      authors:
+        - name: Jizhou Liu
+          url: https://ljz0.github.io
+        - name: Wei Xiang
+          url: https://sites.google.com/view/wei-xiang
+    - title: Measuring Inflation Inequality with Incomplete Prices
+      authors:
+        - name: Olivia Ding
+        - name: Kan Yao
