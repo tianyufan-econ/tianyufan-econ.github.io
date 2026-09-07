@@ -31,6 +31,7 @@
   papers:
     - title: Measuring Geopolitical Alignment and Economic Growth
       pdf: /files/FAN_Tianyu_Geopolitical_Growth.pdf
+      version_date: "2026-05-20"
       resources:
         - label: arXiv
           url: https://arxiv.org/abs/2507.04833
@@ -53,6 +54,7 @@
           url: https://marginalrevolution.com/marginalrevolution/2025/11/the-geopolitical-determinants-of-economic-growth-1960-2019.html
     - title: Geopolitical Barriers to Globalization
       pdf: /files/FWX_Geopolitical_Barriers.pdf
+      version_date: "2026-04-26"
       authors:
         - name: Mai Wo
           url: https://sites.google.com/view/maiwo/
@@ -72,6 +74,7 @@
         uneven welfare effects.
     - title: The Labor Market Incidence of New Technologies
       pdf: /files/FAN_Technology_Incidence.pdf
+      version_date: "2025-12-13"
       resources:
         - label: arXiv
           url: https://arxiv.org/abs/2504.04047

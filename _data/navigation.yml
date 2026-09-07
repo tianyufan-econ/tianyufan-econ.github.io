@@ -1,9 +1,9 @@
 main:
   - title: "Research"
     url: /#research
-  - title: "Data"
+  - title: "Global Geopolitical Events"
     url: /data/
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /files/CV_FAN_Tianyu.pdf
   - title: "Teaching"
     url: /teaching/

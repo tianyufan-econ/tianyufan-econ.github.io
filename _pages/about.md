@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 <div class="introduction">
-  <p>I am a Postdoctoral Research Associate at Princeton University. I will join the Chinese University of Hong Kong as an Assistant Professor of Economics in 2027.</p>
-  <p>My research studies how technological change and geopolitical relationships shape economic growth, international trade, and the distribution of income.</p>
-  <p>I received my Ph.D. in Economics from Yale University in 2026.</p>
+  <p>My research studies how technologies, geopolitics, and structural change shape economic growth, international trade, and the distribution of income.</p>
 </div>
 
 <div id="research">

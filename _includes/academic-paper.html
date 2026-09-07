@@ -6,8 +6,9 @@
   {% endif %}
   {% if paper.publication %}<p class="paper-publication">{{ paper.publication }}</p>{% endif %}
   {% if paper.status %}<p class="paper-status">{{ paper.status }}</p>{% endif %}
-  {% if paper.resources or paper.abstract %}
+  {% if paper.version_date or paper.resources or paper.abstract %}
   <div class="paper-resources" aria-label="Resources for {{ paper.title | escape }}">
+    {% if paper.version_date %}<time class="paper-date" datetime="{{ paper.version_date }}">{{ paper.version_date | date: "%B %Y" }}</time>{% endif %}
     {% for resource in paper.resources %}<a href="{% if resource.url contains '://' %}{{ resource.url }}{% else %}{{ resource.url | relative_url }}{% endif %}">{{ resource.label }}</a>{% endfor %}
     {% if paper.abstract %}<button class="abstract-toggle" type="button" aria-expanded="false" aria-controls="abstract-{{ paper.title | slugify }}" hidden>Abstract</button>{% endif %}
   </div>
