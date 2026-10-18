@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.11)  22 SEP 2026 21:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.11)  18 OCT 2026 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -399,15 +399,15 @@ Package rerunfilecheck Info: File `CV_FAN_Tianyu.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13484 strings out of 467099
- 221256 string characters out of 5408259
+ 13488 strings out of 467099
+ 221289 string characters out of 5408259
  705252 words of memory out of 5000000
  42591 multiletter control sequences out of 15000+600000
- 643608 words of font info for 117 fonts, out of 8000000 for 9000
+ 643835 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,11n,79p,1010b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on /Users/tianyufan/Documents/GitHub/tianyufan-econ.github.io/files/.texpadtmp/CV_FAN_Tianyu.pdf (2 pages, 69751 bytes).
+Output written on /Users/tianyufan/Documents/GitHub/tianyufan-econ.github.io/files/.texpadtmp/CV_FAN_Tianyu.pdf (2 pages, 70060 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
