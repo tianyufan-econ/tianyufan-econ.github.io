@@ -31,22 +31,22 @@
   papers:
     - title: Measuring Geopolitical Alignment and Economic Growth
       pdf: /files/FAN_Tianyu_Geopolitical_Growth.pdf
-      version_date: "2026-05-20"
+      version_date: "2026-10-21"
       resources:
         - label: arXiv
           url: https://arxiv.org/abs/2507.04833
         - label: Short replication
           url: https://github.com/tianyufan-econ/research-replication/tree/main/geopolitical-growth
       abstract: >-
-        This paper introduces a new event-based measure of bilateral geopolitical alignment and provides
-        evidence that it shapes economic growth. The measure is built from 373,020 geopolitical events
-        across 193 countries over 1960–2024, compiled using large language models. With local projections
-        exploiting within-country temporal variation, we find that a one-standard-deviation permanent
-        improvement in geopolitical alignment increases GDP per capita by approximately 10 percent
-        over 25 years. These effects are associated with improvements in domestic stability, investment,
-        productivity, trade, and human capital. In illustrative accounting exercises, observed geopolitical
-        changes correspond to GDP differences ranging from about −30 to +30 percent across countries
-        and time periods.
+        We introduce an event-based measure of bilateral geopolitical alignment from 373,020 events
+        across 193 countries over 1960–2024, compiled using large language models and validated with
+        external benchmarks and a human audit. Aggregating alignment with major nations summarizes
+        each country's external geopolitical environment. In local projections using within-country
+        variation, a sustained one-standard-deviation improvement in this environment is followed by
+        about 10 percent higher GDP per capita after 25 years. This relationship is similar across
+        major-nation partners and historical periods, and is accompanied by greater stability, investment,
+        trade openness, and productivity. Accounting exercises map observed realignments into
+        substantial GDP differences.
       media:
         - label: Le Monde
           url: https://www.lemonde.fr/idees/article/2025/12/03/la-qualite-des-relations-geopolitiques-avec-les-grandes-economies-a-un-impact-tres-important-sur-la-croissance_6655833_3232.html
